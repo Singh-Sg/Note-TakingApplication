@@ -1,0 +1,9 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+tests/__init__.py
+# Ignore environment-specific files
+.env
+env
+nenv
+test.db
